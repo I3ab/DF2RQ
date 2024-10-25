@@ -6,7 +6,7 @@ Official code for 'DF2RQ: Dynamic Feature Fusion via Region-wise Queries for Sem
 
 **News:**
 
-* Our paper is still in submission and more detailed files will be realsed after it is accepted.
+* Our paper is still under review, the code will be uploaded gradually, and all detailed files will be released after paper acceptance.
 
 ## Installation
 
@@ -83,7 +83,6 @@ mmseg/datasets/transforms/transforms.py
 mmseg/datasets/transforms/loading.py
 mmseg/datasets/transforms/formating.py
 ```
-
 
 ### Multimodal Data Segmentation Visualization
 
